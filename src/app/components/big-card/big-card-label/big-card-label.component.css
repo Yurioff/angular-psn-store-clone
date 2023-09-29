@@ -1,0 +1,24 @@
+.big-card__detail{
+    width: 500px;
+    height: 250px;
+    margin-left: 50px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+
+}
+
+.big-card__detail > h1 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-size: 70px;
+    font-weight: 600;
+}
+
+.big-card__detail > p {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

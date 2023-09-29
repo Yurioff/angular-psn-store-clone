@@ -3,16 +3,10 @@
 	flex-direction: row;
 	position: fixed;
 	z-index: 999;
-	background-color: #ffffff;
 	width: 100%;
-	height: 40px;
-	box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.5);
-}
-
-.menu-bar__logo{
-  margin-left: 30px;
-  display: flex;
-  align-items: center;
+	height: 85px;
+	box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.8);
+	background-color: rgba(255,255,255,1);
 }
 
 .menu-bar__item{
@@ -34,11 +28,18 @@
 .menu-bar__item > ul > li > a {
 	text-decoration: none;
 	padding: 5px;
-	color: rgb(7, 7, 7);
+	color: #000;
 	font-family: 'Segoe UI';
 }
 
-.menu-bar__item > ul > li > a:hover {
+.menu-bar__item > ul > li > a.link-youtube:hover{
+	color: red;
+	font-weight: 600;
+}
+.menu-bar__item > ul > li > a.link-linkedin:hover{
 	color: blue;
+	font-weight: 600;
+}
+.menu-bar__item > ul > li > a.link-github:hover{
 	font-weight: 600;
 }
