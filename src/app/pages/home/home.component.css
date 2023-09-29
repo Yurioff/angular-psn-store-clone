@@ -9,10 +9,15 @@
 .home__container{
 	width: 90%;
 	margin: auto;
-	padding-top: 130px;
+	padding-top: 70px;
 	display: flex;
 
 	justify-content: space-around;
 	align-items: baseline;
 	flex-wrap: wrap;
+}
+
+.home-principal__container > h1 {
+	color: #fff;
+	margin: 50px 0px 0px 50px;
 }

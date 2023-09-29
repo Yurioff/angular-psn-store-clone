@@ -9,7 +9,9 @@
     border: solid 2px #000;
     border-radius: 50%;
     margin-top: 10px;
-
+}
+.menu-bar__logo > img:hover {
+    border: solid 2px #0070D1;
 }
 
 .detail-profile {
@@ -36,14 +38,9 @@
     margin-right: 10px;
 }
 
-.icon-steam:hover {
-    fill: #171a21;
+.icon-achievements:hover{
+    fill: #ffe600;
 }
-
-.icon-xbox:hover{
-    fill: #107C10;
-}
-
 .icon-ps:hover{
     fill: #0070D1;
 }
