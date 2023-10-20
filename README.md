@@ -1,27 +1,35 @@
-# Store
+# Clone da Loja PSN em Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Uma recriação da loja online da PlayStation Network (PSN) usando Angular.
 
-## Development server
+## Visão Geral
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este projeto tem como objetivo criar uma versão clonada da loja online da PSN usando Angular. A ideia é replicar a interface da loja PSN e fornecer uma experiência de navegação semelhante à original.
 
-## Code scaffolding
+## Status
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O projeto está em desenvolvimento ativo, com novos recursos e melhorias sendo adicionados regularmente.
 
-## Build
+## Demonstração
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+[Link para a demonstração do projeto](https://angular-psn-store-clone-six.vercel.app)
 
-## Running unit tests
+Recursos
+Recriação da interface da loja online da PSN.
+Navegação e interação semelhantes à loja original.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Tecnologias Utilizadas
 
-## Running end-to-end tests
+- Angular: A estrutura principal do site.
+- Outras tecnologias: HTML, CSS, TypeScript, Git, etc.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Contribuições
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Sinta-se à vontade para abrir problemas (issues) e enviar pull requests se desejar contribuir para este projeto. Feedback e melhorias são sempre bem-vindos.
+
+## Contato
+
+- Website: [Seu Site Pessoal](https://seusite.com)
+- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-usuario/)
+- Email: seu-email@gmail.com
